@@ -30,7 +30,7 @@
         <p class="contacts-name">Начинающий верстальщик</p>
         <p><i>email:</i> <a href="zaripovmuhammad2008@gmail.com">zaripovmuhammad2008@gmail.com</a></p>
         <p><i>телефон:</i> <a href="tel:89393438262">89393438262</a></p>
-        <p><i>Мой сайт</i><a href="https://ac2911.github.io/my-siteds/">https://ac2911.github.io/my-siteds/</a></p>
+        <p><i>Мой сайт: </i><a href="https://ac2911.github.io/my-siteds/"> https://ac2911.github.io/my-siteds/</a></p>
     </section>
   </main>
   <footer class="page-footer">
