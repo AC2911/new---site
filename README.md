@@ -36,7 +36,7 @@
   <footer class="page-footer">
     <div class="container">
       <p>© Начинающий верстальщик</p>
-      <p>2020</p>
+      <p>2021</p>
     </div>
   </footer>
 </body>
